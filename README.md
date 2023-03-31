@@ -1,3 +1,11 @@
+#Integrantes
+- André Bernardo
+- Cesar August
+- Fábio Luiz
+- Felipe Celeri
+- Gracielle Oliveira
+- Matheus Alves
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
