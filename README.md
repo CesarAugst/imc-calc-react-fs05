@@ -1,10 +1,14 @@
-#Integrantes
+# Integrantes
 - André Bernardo
 - Cesar August
 - Fábio Luiz
 - Felipe Celeri
 - Gracielle Oliveira
 - Matheus Alves
+
+## Instruções
+- *Ao clonar o repositório, usar o comando ```npm install``` para criação do diretório de dependências*
+- *Em seguida o comando ```npm run start``` fará a aplicação ser executada*
 
 # Getting Started with Create React App
 
